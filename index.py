@@ -132,6 +132,9 @@ while True:
   elif opcion == 5:
     print("Opción 5")
 
+  elif opcion == 6:
+    print("Opción 6")
+
   elif opcion == 7:
     break;
   else:
